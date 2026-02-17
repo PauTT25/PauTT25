@@ -27,7 +27,8 @@ Me gusta poder desarrollar mis propias ideas y llegar a convertirlas en proyecto
 
 ## 📊 Estadísticas de GitHub
 
-![Pau's GitHub stats]https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PauTT25&show_icons=true&theme=tokyonight
+https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PauTT25&show_icons=true&theme=tokyonight
+
 
 
 
