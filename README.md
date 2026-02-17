@@ -1,7 +1,11 @@
 ## Pau Contreras Romero
 
 
-🎓 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)  
+🎓 Estudiante de grado superior en Desarrollo de Aplicaciones Multiplataforma (DAM)
+💻 Grado medio en Técnico en Sistemas Microinformáticos y Redes (SMR)  
+📍 Valencia, España  
+
+
 
 <!--
 **PauTT25/PauTT25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
