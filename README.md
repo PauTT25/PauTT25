@@ -10,7 +10,7 @@
 
 ## 🚀 Sobre mí
 
-Soy un desarrollador en proceso con interés en el desarrollo de aplicaciones y tecnología en general.
+Soy un desarrollador en formación con interés en el desarrollo de aplicaciones y tecnología en general.
 
 Me gusta poder desarrollar mis propias ideas y llegar a convertirlas en proyectos funcionales apoyandome con el buen uso de la IA.
 
@@ -27,7 +27,8 @@ Me gusta poder desarrollar mis propias ideas y llegar a convertirlas en proyecto
 
 ## 📊 Estadísticas de GitHub
 
-![Pau's GitHub stats](https://github-readme-stats.vercel.app/api?username=PauTT25&show_icons=true&theme=tokyonight)
+![Pau's GitHub stats]https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PauTT25&show_icons=true&theme=tokyonight
+
 
 
 
