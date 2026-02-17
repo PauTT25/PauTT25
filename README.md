@@ -2,7 +2,9 @@
 
 
 🎓 Estudiante de grado superior en Desarrollo de Aplicaciones Multiplataforma (DAM)
+
 💻 Grado medio en Técnico en Sistemas Microinformáticos y Redes (SMR)  
+
 📍 Valencia, España  
 
 
