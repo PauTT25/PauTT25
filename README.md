@@ -25,10 +25,8 @@ Me gusta poder desarrollar mis propias ideas y llegar a convertirlas en proyecto
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 
+## 📊 Estadísticas de GitHub
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
-</p>
+![Pau's GitHub stats](https://github-readme-stats.vercel.app/api?username=PauTT25&show_icons=true&theme=tokyonight)
+
 
