@@ -1,5 +1,8 @@
 ## Pau Contreras Romero
 
+
+🎓 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)  
+
 <!--
 **PauTT25/PauTT25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
