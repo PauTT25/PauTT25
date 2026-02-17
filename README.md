@@ -10,8 +10,9 @@
 
 ## 🚀 Sobre mí
 
-Soy un desarrollador en proceso con interés en el desarrollo de aplicaciones y tecnología en general.  
-Me gusta poder desarrollar mis propias ideas y llegar a convertirlas en proyectos funcionales.
+Soy un desarrollador en proceso con interés en el desarrollo de aplicaciones y tecnología en general.
+
+Me gusta poder desarrollar mis propias ideas y llegar a convertirlas en proyectos funcionales apoyandome con el buen uso de la IA.
 
 
 
