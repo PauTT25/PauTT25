@@ -8,6 +8,12 @@
 📍 Valencia, España  
 
 
+## 🚀 Sobre mí
+
+Soy un desarrollador en proceso con interés en el desarrollo de aplicaciones y tecnología en general.  
+Me gusta poder desarrollar mis propias ideas y llegar a convertirlas en proyectos funcionales.
+
+
 
 <!--
 **PauTT25/PauTT25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
