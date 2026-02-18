@@ -31,6 +31,6 @@ Me gusta poder desarrollar mis propias ideas y llegar a convertirlas en proyecto
 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauTT25&layout=compact&theme=tokyonight&cache_seconds=1800" />
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauTT25&layout=compact&theme=tokyonight&cache_seconds=1800" />](https://camo.githubusercontent.com/97eabba36dd11b58f3199bc74d7f4e56fdb7b5685b729ca5a4e939a851391ad5/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f73746174733f757365726e616d653d526f647269676f4d4d2d353535267468656d653d746f6b796f6e69676874)
 
 
