@@ -27,10 +27,10 @@ Me gusta poder desarrollar mis propias ideas y llegar a convertirlas en proyecto
 
 ## 📊 Estadísticas de GitHub
 
-![Pau's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PauTT25&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=PauTT25&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 
 
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauTT25&layout=compact&theme=tokyonight&cache_seconds=1800" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauTT25&layout=compact&theme=tokyonight)
 
