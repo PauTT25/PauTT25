@@ -27,7 +27,9 @@ Me gusta poder desarrollar mis propias ideas y llegar a convertirlas en proyecto
 
 ## 📊 Estadísticas de GitHub
 
-<img src="https://github-readme-stats.vercel.app/api?username=PauTT25&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PauTT25&theme=tokyonight" height="150"/>
+</p>
 
 
 
